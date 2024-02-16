@@ -1,12 +1,11 @@
 <h1 align="center">Bonjour 👋, je m'appelle Haoua Idrissa Enikoye</h1>
 <div align="center"> <img src="https://github.com/haouaenikoye/haouaenikoy/assets/57898508/354b43d4-eb29-45e2-9863-77f2d3bb5c9a"></div>
- </div>
 <h3 align="center">Développeur Web | webdesigner du Niger</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 
 
-<p align="left"> <img src=" 265198308_1498283047207579_5741362058432774572_n.jpg" alt="haouaenikoye" /> </p>
 
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haouaenikoye" alt="haouaenikoye" /></a > </p>
 
@@ -19,6 +18,13 @@
 - 💬 Interrogez-moi sur **React Js Bootstrap Figma**
 
 - 📫 Comment me joindre * *ienikoye@gmail.com**
+
+ </div>
+
+
+
+
+
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">

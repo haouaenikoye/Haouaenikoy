@@ -1,8 +1,7 @@
 <h1 align="center">Bonjour 👋, je m'appelle Haoua Idrissa Enikoye</h1>
 <h3 align="center">Développeur Web | webdesigner du Niger</h3>
 
-<p align="left"> <img src=" ![image](https://github.com/haouaenikoye/haouaenikoy/assets/57898508/c8734ed0-7ee7-48f2-a637-5c78df4bc5e1)
-" alt="haouaenikoye" /> </p>
+<p align="left"> <img src=" 265198308_1498283047207579_5741362058432774572_n.jpg" alt="haouaenikoye" /> </p>
 
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haouaenikoye" alt="haouaenikoye" /></a > </p>
 

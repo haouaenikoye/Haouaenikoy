@@ -1,5 +1,10 @@
 <h1 align="center">Bonjour 👋, je m'appelle Haoua Idrissa Enikoye</h1>
+<div align="center"> <img src="https://github.com/haouaenikoye/haouaenikoy/assets/57898508/354b43d4-eb29-45e2-9863-77f2d3bb5c9a"></div>
+ </div>
 <h3 align="center">Développeur Web | webdesigner du Niger</h3>
+
+
+
 
 <p align="left"> <img src=" 265198308_1498283047207579_5741362058432774572_n.jpg" alt="haouaenikoye" /> </p>
 

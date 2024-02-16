@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://github.com/haouaenikoye/haouaenikoy/assets/57898508/354b43d4-eb29-45e2-9863-77f2d3bb5c9a"></div>
 <h3 align="center">Développeur Web | webdesigner du Niger</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="haouaenikoye" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haouaenikoye&label=Profile%20views&color=0e75b6&style=flat" alt="haouaenikoye" /> </p>
 
 - 🔭 Je travaille actuellement sur [QueenTech](https://github.com/haouaenikoye/QueenTech)
 
